@@ -21,7 +21,6 @@ MagicDrawUML "16.0"
 				(Processors
 				)
 			)
-			classFielCreationType -1
 		)
 		DEFAULT_WORKING_DIRECTORY "<install.root>"
 		TEMP_DIRECTORY "Active Directory"
@@ -40,7 +39,6 @@ MagicDrawUML "16.0"
 				(Processors
 				)
 			)
-			classFielCreationType -1
 			mUseIncludePath TRUE
 			mGenerateImports FALSE
 		)
@@ -50,13 +48,12 @@ MagicDrawUML "16.0"
 		)
 		resolveTemplateType TRUE
 		(XmlSchemaLanguageOptions
-			classFielCreationType -1
 		)
 		recentSourceRoots( list
 		)
 	)
 	(RTProjectGroupObject
-		mID "_16_9_b7002e9_1773251123217_380879_1617"
+		mID "_16_9_b7002e9_1775125042191_713578_1837"
 		mName "Code engineering sets"
 	)
 )
